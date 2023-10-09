@@ -19,7 +19,7 @@ import project4 from "$lib/assets/images/portfolio/project-4.png"
 import project5 from "$lib/assets/images/portfolio/project-5.jpg"
 import project6 from "$lib/assets/images/portfolio/project-6.jpg"
 import project7 from "$lib/assets/images/portfolio/project-7.jpg"
-
+import project8 from "$lib/assets/images/portfolio/project-8.jpg"
 
 export const data = {
   person: {
@@ -124,7 +124,8 @@ export const data = {
         { title: "Kroonos Studio", img: project4, category: "Logo", link: "#" },
         { title: "Hockey", img: project5, category: "Brosur", link: "#" },
         { title: "3D menendang bola", img: project6, category: "Video", link: "https://youtu.be/DtbO36fpPnQ" },
-        { title: "Journey of life", img: project7, category: "Video", link: "https://youtu.be/UokPM7_FOag" },
+        { title: "Journey of life", img: project7, category: "Video", link: "https://youtu.be/UokPM7_FOag" }, 
+        { title: "Gita Sekar", img: project8, category: "Poster", link: "#" }, 
       ]
     },
     blog: []
